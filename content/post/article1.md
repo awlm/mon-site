@@ -1,6 +1,8 @@
 ---
 title: "Premier article"
 date: 2020-01-31T09:41:37+01:00
+categories: ["cat1", "cat2"]
+tags: ["tag1", "tag2"]
 ---
 
 ![Une route](/images/road.jpg)
