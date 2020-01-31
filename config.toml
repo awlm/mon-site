@@ -2,3 +2,6 @@ baseURL = "http://example.org"
 languageCode = "fr-FR"
 title = "Mon super site"
 theme = "ananke"
+
+[params]
+    featured_image = "/images/namibie.jpg"
