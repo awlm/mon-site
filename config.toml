@@ -1,6 +1,6 @@
 baseURL = "https://mon-super-site-a-moi.netlify.com"
 languageCode = "fr-FR"
-title = "Mon super site"
+title = "Mon site à moi"
 theme = "ananke"
 
 [params]
